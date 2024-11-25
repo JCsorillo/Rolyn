@@ -1,0 +1,9 @@
+User -agent: Googlebot
+Disallow: /private/
+Allow: /
+
+User -agent: *
+Disallow: /private/
+Allow: /
+
+Sitemap: https://rolynvillafuertenisucics.site/sitemap.xml

@@ -1,0 +1,21 @@
+{
+    "name": "Rolyn Villafuerte - NISU | CICS",
+    "short_name": "Rolyn Villafuerte",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "description": "Welcome to Rolyn Villafuerte's site! Explore books, coffee, and more.",
+    "icons": [
+      {
+        "src": "images/favicon-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "images/favicon-16x16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      }
+    ]
+  }
